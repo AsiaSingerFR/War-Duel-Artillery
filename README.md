@@ -13,7 +13,8 @@ Il fonctionne sur navigateur, donc sur Windows absolument, sur ios je ne sais pa
 L'IA ennemi est encore approximative, j'ai dû mettre pas mal les mains dans le cambouis. 
 
 
-#Installation 
+# Installation 
+
 Pour l'installation rien de plus simple. Chargez le fichier .zip dans le dossier souhaité, dezippez, lancez le “War Duel.html”
 
 
